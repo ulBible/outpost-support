@@ -27,6 +27,7 @@ Outpost가 네트워크에 연결하는 경우는 세 가지뿐이며, 모두 �
 | 권한 | 용도 |
 |---|---|
 | 네트워크(클라이언트) | SSH 접속, iCloud 동기화 |
+| 네트워크(서버) | 워크스페이스 포트 포워딩의 127.0.0.1 리스너. 외부에서 접속할 수 없습니다 |
 | 파일 열기(사용자가 선택한 파일) | 개인키·~/.ssh/config·iTerm2 테마 파일 가져오기. 선택한 파일만 읽습니다 |
 | iCloud(CloudKit)·푸시 알림 | 동기화를 켠 경우 변경 사항을 받기 위한 무음 알림. 사용자에게 보이는 알림은 없습니다 |
 
@@ -57,6 +58,7 @@ Permissions the app asks for, and why:
 | Permission | Purpose |
 |---|---|
 | Network (client) | SSH connections and iCloud sync |
+| Network (server) | The 127.0.0.1 listener for workspace port forwards. It never accepts connections from outside this Mac |
 | Open files you choose | Importing private keys, ~/.ssh/config and iTerm2 theme files. Only the files you pick are read |
 | iCloud (CloudKit) and push notifications | Silent notifications that deliver sync changes when sync is on. There are no user-visible notifications |
 

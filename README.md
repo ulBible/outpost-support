@@ -8,7 +8,7 @@
 - Mac App Store: (출시 후 링크 추가 / link coming soon)
 
 ## 요구사항 / Requirements
-Apple Silicon Mac, macOS 15 or later. English UI.
+macOS 15 or later (Apple silicon and Intel). English UI.
 
 ## 자주 묻는 질문 / FAQ
 
