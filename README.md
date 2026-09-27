@@ -5,7 +5,7 @@
 
 - 개인정보 처리방침 / Privacy Policy: [PRIVACY.md](PRIVACY.md)
 - 문의·버그 신고 / Support: [Issues](https://github.com/ulBible/outpost-support/issues)
-- Mac App Store: (출시 후 링크 추가 / link coming soon)
+- Mac App Store: https://apps.apple.com/app/id6811488592
 
 ## 요구사항 / Requirements
 macOS 15 or later (Apple silicon and Intel). English UI.
